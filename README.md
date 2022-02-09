@@ -4,6 +4,7 @@ Ready to use docker
 *********** How can install wsl2 on windows ***********
 
 check your windows version over than 1903 Build 19362
+
 if ARM64 system , need version over than 2004 Build 19041
 
 open wsl
@@ -26,6 +27,6 @@ Set the default version by wsl2
 ************ How can install ubuntu 20.04 by wsl ************
 
 1 - search linux in Microsoft store
-2 - chose ubuntu 20.04 LTS 
+2 - chose ubuntu 20.04 LTS
 3 - get and intall
 4 - set a user name and password (done)
